@@ -1,0 +1,13 @@
+﻿{
+	"ip":
+	{
+		"uidp":"c2FtcGxlIHRlc3QgaXNzdWVy",
+		"descGq":{"type":"named","name":"1.3.6.1.4.1.311.75.1.2.1"},
+		"uidh":"SHA-256",
+		"g":["BHon15oD+m1hQfUaXreQuQFhYf86cEPCda+wH6dfPHRGgJcvMaelZBryY93n43WmteYu4ESe1H8L2V40cwU5fzQ="],
+		"e":"AQEBAQEBAQEBAQEB",
+		"s":"YXBwc3BlY1M=",
+		"MaxNumberOfAttributes":12
+	},
+	"privateKey":"/wb30xgPPp8lrJ2n2mAWgAl7+Yq8YCaXb2AL3FE2OBg="
+}
